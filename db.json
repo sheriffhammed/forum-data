@@ -1,0 +1,244 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "(254)954-1289",
+      "website": "demarco.info"
+    },
+    {
+      "id": "59284238-e874-42c3-b4f3-21e50da9a6c7",
+      "name": "Yaqub Raheem",
+      "username": "yaqub",
+      "email": "yaqub.adesola@gmail.com",
+      "phone": "+2348074544422",
+      "website": "www.techplanet.com.ng"
+    },
+    {
+      "id": "2f9234d7-6de7-4dd5-adb9-860282c44846",
+      "name": "ADENIJI WEMIMO",
+      "username": "admin",
+      "email": "yaqub.adesola@gmail.com",
+      "phone": "+2348074544422",
+      "website": "www.rahkaztech.com.ng"
+    },
+    {
+      "email": "sheriffolaleke@gmail.com",
+      "name": "Sheriff Olaleke",
+      "phone": "07733793810",
+      "username": "shammed",
+      "website": "www.sheriffhammed.co.uk",
+      "id": "607b3108-eba1-48cd-9aee-c01ef7e2d69e"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "phone": "(254)954-1289",
+      "website": "demarco.info"
+    },
+    {
+      "id": "59284238-e874-42c3-b4f3-21e50da9a6c7",
+      "name": "Yaqub Raheem",
+      "username": "yaqub",
+      "email": "yaqub.adesola@gmail.com",
+      "phone": "+2348074544422",
+      "website": "www.techplanet.com.ng"
+    },
+    {
+      "id": "2f9234d7-6de7-4dd5-adb9-860282c44846",
+      "name": "ADENIJI WEMIMO",
+      "username": "admin",
+      "email": "yaqub.adesola@gmail.com",
+      "phone": "+2348074544422",
+      "website": "www.rahkaztech.com.ng"
+    },
+    {
+      "email": "sheriffolaleke@gmail.com",
+      "name": "Sheriff Olaleke",
+      "phone": "07733793810",
+      "username": "shammed",
+      "website": "www.sheriffhammed.co.uk",
+      "id": "607b3108-eba1-48cd-9aee-c01ef7e2d69e"
+    },
+    {
+      "name": "Sheriff Hammed",
+      "email": "sheriffolaleke@gmail.com",
+      "phone": "07733793810",
+      "username": "shammed",
+      "website": "www.sheriffhammed.co.uk",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "userId": 2,
+      "id": "yZOLo_aTMRrQZto7NFQDL",
+      "body": "But why has the process of connecting with people become more challenging than ever?",
+      "date": "2023-08-25T21:17:49.918Z"
+    },
+    {
+      "userId": 2,
+      "id": "bOI9tjrOUHQ-S72AdWoby",
+      "body": "The future belongs to those who believe in the beauty of their dreams. -Eleanor Roosevelt",
+      "date": "2023-08-26T08:42:49.490Z"
+    },
+    {
+      "userId": 3,
+      "id": "e47Ji5rnI8xh43pt2tOJl",
+      "body": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron",
+      "date": "2023-08-26T10:58:17.601Z"
+    },
+    {
+      "userId": 3,
+      "id": "gk_7wkgTmmD20igAQRpzu",
+      "body": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. -Helen Keller",
+      "date": "2023-08-26T11:25:49.407Z"
+    },
+    {
+      "userId": 3,
+      "id": "1fpOjsdsNVV0JiZv6Iv-3",
+      "body": "\"You only live once, but if you do it right, once is enough.\" — Mae West",
+      "date": "2023-08-29T20:33:43.851Z"
+    },
+    {
+      "userId": 2,
+      "id": "P95RVdjVL8DHD6KWTyYSD",
+      "body": "\"Many of life’s failures are people who did not realize how close they were to success when they gave up.\"– Thomas A. Edison",
+      "date": "2023-08-29T20:37:17.724Z"
+    }
+  ],
+  "employee": [
+    {
+      "id": 1,
+      "password": "password",
+      "phone": 7733793810,
+      "email": "admin@gmail.com",
+      "surName": "Admin",
+      "firstName": "Admin"
+    },
+    {
+      "id": 2,
+      "confirmPassword": "password",
+      "password": "password",
+      "phone": 7984544341,
+      "email": "h.bello@yahoo.com",
+      "surName": "Bello",
+      "firstName": "Hassanat"
+    },
+    {
+      "id": 3,
+      "confirmPassword": "pppp",
+      "password": "s11mplex",
+      "phone": 7733793820,
+      "email": "sheriffolaleke@gmail.com",
+      "surName": "Hammed",
+      "firstName": "Sheriff"
+    },
+    {
+      "id": 4,
+      "confirmPassword": "password",
+      "password": "password",
+      "phone": 8057004604,
+      "email": "sheriffolaleke@gmail.com",
+      "surName": "Hammed",
+      "firstName": "Sheriff"
+    }
+  ],
+  "likes": [
+    {
+      "userId": 1,
+      "postId": "bOI9tjrOUHQ-S72AdWoby",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "postId": "bOI9tjrOUHQ-S72AdWoby",
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "postId": "yZOLo_aTMRrQZto7NFQDL",
+      "id": 4
+    },
+    {
+      "userId": 2,
+      "postId": "1fpOjsdsNVV0JiZv6Iv-3",
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "postId": "P95RVdjVL8DHD6KWTyYSD",
+      "id": 6
+    }
+  ]
+}
